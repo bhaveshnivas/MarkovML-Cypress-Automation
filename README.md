@@ -1,4 +1,4 @@
-# AUTOMATION STEPS FOR CREATING A BASIC CANVAS
+## AUTOMATION STEPS FOR CREATING A BASIC CANVAS
 
 1. Login with valid credentials
 2. Goto Workflows
@@ -8,9 +8,20 @@
 6. Click on Add file
 7. Upload a new CSV File
 8. Verify the file upload successfully
+
+## Execution in Cypress
+1. Clone the repository
+2. Install nodeJS
+3. Install npm by - npm -i init
+4. Install cypress using - npm install cypress --save -dev
+5. To start cypress - npx cypress open
    
 
-![Automation-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a97f49b7-f5e7-483a-a114-258eb8eb6e03)
+
+
+https://github.com/user-attachments/assets/59a242be-5c88-4c42-84d4-d21a808b8061
+
+
 
 
 
