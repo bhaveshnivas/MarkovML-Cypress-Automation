@@ -1,4 +1,4 @@
-## AUTOMATION STEPS FOR CREATING A BASIC CANVAS
+## Automation of Basic Canvas workflow
 
 1. Login with valid credentials
 2. Goto Workflows
@@ -9,12 +9,12 @@
 7. Upload a new CSV File
 8. Verify the file upload successfully
 
-## Execution in Cypress
+## Cypress Installation
 1. Clone the repository
 2. Install nodeJS
-3. Install npm by ``` npm -i init
-4. Install cypress using ```npm install cypress --save -dev
-5. To start cypress ``` npx cypress open
+3. Install npm ``` npm -i init ```
+4. Install cypress ```npm install cypress --save -dev ```
+5. To start cypress ``` npx cypress open ```
    
 
 
