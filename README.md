@@ -12,9 +12,9 @@
 ## Execution in Cypress
 1. Clone the repository
 2. Install nodeJS
-3. Install npm by - npm -i init
-4. Install cypress using - npm install cypress --save -dev
-5. To start cypress - npx cypress open
+3. Install npm by ``` npm -i init
+4. Install cypress using ```npm install cypress --save -dev
+5. To start cypress ``` npx cypress open
    
 
 
